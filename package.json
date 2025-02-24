@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@xstate/fsm": "~2.0.0",
-    "cron": "~2.3.0",
+    "cron": "~4.0.0",
     "debug": "~4.3.4",
     "g": "~2.0.1",
     "node-opcua": "~2.81.0",
